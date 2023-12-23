@@ -8,7 +8,8 @@
     max-width: 800px;
     height: 600px;
     margin: 0 auto;
-    background-color: cornflowerblue;
+    background-color: rgb(8, 30, 71);
+    background-image: url(./rasim/Group\ 6.png);
     display: flex;
     justify-content: center;
     align-items: end;
