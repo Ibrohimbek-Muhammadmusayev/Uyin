@@ -27,6 +27,12 @@ img {
     margin: 0 auto;
 }
 
+.tepa-past {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
 button {
     margin: 0 auto;
     width: 200px;
@@ -42,5 +48,15 @@ button {
 
 .chap {
     margin-left: 450px;
+    transition: all 1s ease-out;
+}
+
+.tepa {
+    margin-bottom: 150px;
+    transition: all 1s ease-out;
+}
+
+.past {
+    margin-top: 150px;
     transition: all 1s ease-out;
 }
