@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    border: radius 15px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.TUGMALAR {
+    width: 600px;
+    display: flex;
+    gap: 40px;
+    margin: 0 auto;
+}
+
+button {
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+    background-color:brown;
+    border-radius: 12px;
+}
+
+.ong {
+    margin-right: 450px;
+    transition: all 1s ease-out;
+}
+
+.chap {
+    margin-left: 450px;
+    transition: all 1s ease-out;
+}
