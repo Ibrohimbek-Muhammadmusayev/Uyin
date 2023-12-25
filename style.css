@@ -111,10 +111,10 @@ button {
     cursor:no-drop;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .container {
         width: 1000px;
-        height: 1500px;
+        height: 700px;
     }
     .wrappwer {
         max-width: 1000px;
@@ -122,6 +122,7 @@ button {
     }
     .left {
         width: 700px;
+
     }
 
     .right {
